@@ -3,8 +3,8 @@ i will be updating my progress through learning cyber security here
 
 2026
 
-Aug 28 i got a solid understanding of the osi model and its different layers
+Aug 23 i got a solid understanding of the osi model and its different layers
 
-Aug 29 i learned the different networking devices used frequently in everyday life
+Aug 24 i learned the different networking devices used frequently in everyday life
 
-Aug 29 i learned important networking functions
+Aug 24 i learned important networking functions
