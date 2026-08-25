@@ -9,4 +9,6 @@ Aug 24 i learned the different networking devices used frequently in everyday li
 
 Aug 24 i learned important networking 
 
-Aug 25 i learned abt cloud services and desinging
+Aug 25 i learned abt cloud services and designing
+
+Aug 25 i learned abt the different cloud models
