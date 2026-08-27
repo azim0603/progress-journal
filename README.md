@@ -12,3 +12,5 @@ Aug 24 i learned important networking
 Aug 25 i learned abt cloud services and designing
 
 Aug 25 i learned abt the different cloud models
+
+Aug 26 i learned the intoduction to ip, the way data is transfered by TCP and UDP and port numbers
