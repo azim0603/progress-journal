@@ -16,3 +16,5 @@ Aug 25 i learned abt the different cloud models
 Aug 26 i learned the intoduction to ip, the way data is transfered by TCP and UDP and port numbers
 
 Aug 27 i learned abt common ports 
+
+Aug 28 i learned abt other useful protocols
