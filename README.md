@@ -18,3 +18,5 @@ Aug 26 i learned the intoduction to ip, the way data is transfered by TCP and UD
 Aug 27 i learned abt common ports 
 
 Aug 28 i learned abt other useful protocols
+
+Aug 29 i learned abt network communication
