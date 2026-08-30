@@ -20,3 +20,5 @@ Aug 27 i learned abt common ports
 Aug 28 i learned abt other useful protocols
 
 Aug 29 i learned abt network communication
+
+Aug 30 i learned abt wireless networking
