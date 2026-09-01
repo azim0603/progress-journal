@@ -22,3 +22,5 @@ Aug 28 i learned abt other useful protocols
 Aug 29 i learned abt network communication
 
 Aug 30 i learned abt wireless networking
+
+Aug 31 i learned abt optical fiber and copper cabling
