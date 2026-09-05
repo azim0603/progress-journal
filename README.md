@@ -24,3 +24,11 @@ Aug 29 i learned abt network communication
 Aug 30 i learned abt wireless networking
 
 Aug 31 i learned abt optical fiber 
+
+September
+
+sept 1 i learned abt copper cabling
+
+sept 2 i learned abt network transceivers and different fiber connectors
+
+sept 5
