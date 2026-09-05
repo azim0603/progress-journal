@@ -29,6 +29,8 @@ September
 
 sept 1 i learned abt copper cabling
 
-sept 2 i learned abt network transceivers and different fiber connectors
+sept 2 i learned abt network transceivers 
+
+sept 3 ilearned abt different fiber connectors
 
 sept 5
