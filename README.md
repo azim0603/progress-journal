@@ -36,3 +36,5 @@ sept 3 i learned abt different fiber connectors
 sept 5 i learned abt different copper connectors and Network topologies
 
 sept 7 i learned abt different network architectures
+
+sept 9 i learned abt binary math
