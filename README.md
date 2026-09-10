@@ -38,3 +38,5 @@ sept 5 i learned abt different copper connectors and Network topologies
 sept 7 i learned abt different network architectures
 
 sept 9 i learned abt binary math
+
+sept 10 i learned abt 1pv4 Addressing
