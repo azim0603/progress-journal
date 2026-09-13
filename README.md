@@ -40,3 +40,7 @@ sept 7 i learned abt different network architectures
 sept 9 i learned abt binary math
 
 sept 10 i learned abt Ipv4 Addressing
+
+sept 11 i learned abt classful subnetting
+
+sept 13 i learned abt ipv4 subnet masks
