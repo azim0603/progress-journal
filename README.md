@@ -44,3 +44,5 @@ sept 10 i learned abt Ipv4 Addressing
 sept 11 i learned abt classful subnetting
 
 sept 13 i learned abt ipv4 subnet masks
+
+sept 15 i learned abt how to calculate ipv4 subnets and Hosts
