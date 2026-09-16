@@ -46,3 +46,5 @@ sept 11 i learned abt classful subnetting
 sept 13 i learned abt ipv4 subnet masks
 
 sept 15 i learned abt how to calculate ipv4 subnets and Hosts
+
+sept 16 i learned abt magic number subnetting
