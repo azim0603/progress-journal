@@ -50,3 +50,7 @@ sept 15 i learned abt how to calculate ipv4 subnets and Hosts
 sept 16 i learned abt magic number subnetting
 
 sept 17 i learned abt the seven second subnetting shortcut
+
+sept 18 did more practice on magic number and seven second subnetting
+
+sept 20 learned abt software defined networking
