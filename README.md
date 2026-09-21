@@ -54,3 +54,5 @@ sept 17 i learned abt the seven second subnetting shortcut
 sept 18 did more practice on magic number and seven second subnetting
 
 sept 20 learned abt software defined networking
+
+sept 21 learned abt virtual extensible LAN
