@@ -55,4 +55,7 @@ sept 18 did more practice on magic number and seven second subnetting
 
 sept 20 learned abt software defined networking
 
-sept 21 learned abt virtual extensible LAN
+sept 21 learned abt virtual extensible LAN 
+
+sept 23 i leanred abt zero trust
+
