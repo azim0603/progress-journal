@@ -61,3 +61,4 @@ sept 23 i leanred abt zero trust
 
 sept 26 i learned abt infrastructure as a code
 
+sept 30 i learned abt  IPv6 Addressing
