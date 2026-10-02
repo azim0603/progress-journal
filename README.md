@@ -62,3 +62,7 @@ sept 23 i leanred abt zero trust
 sept 26 i learned abt infrastructure as a code
 
 sept 30 i learned abt  IPv6 Addressing
+
+October
+
+oct 2 i learned abt static routing 
