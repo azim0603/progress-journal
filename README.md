@@ -66,3 +66,7 @@ sept 30 i learned abt  IPv6 Addressing
 October
 
 oct 2 i learned abt static routing 
+
+oct 3 i learned abt dynamic routing
+
+
