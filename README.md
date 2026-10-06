@@ -69,4 +69,6 @@ oct 2 i learned abt static routing
 
 oct 3 i learned abt dynamic routing
 
+oct 6 i learned abt routing technologies 
+
 
