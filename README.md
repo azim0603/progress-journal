@@ -71,4 +71,6 @@ oct 3 i learned abt dynamic routing
 
 oct 6 i learned abt routing technologies 
 
+oct 7 i learned abt NAT
+
 
