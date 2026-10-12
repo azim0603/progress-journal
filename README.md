@@ -73,4 +73,4 @@ oct 6 i learned abt routing technologies
 
 oct 7 i learned abt NAT
 
-
+oct 12 i learned abt VLANs and Trunking
