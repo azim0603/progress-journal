@@ -78,3 +78,5 @@ oct 12 i learned abt VLANs and Trunking
 oct 20 i learned abt interface configurations
 
 oct 22 i learned abt spanning tree protocol
+
+oct 26 i learned abt wireless technologies 
