@@ -80,3 +80,5 @@ oct 20 i learned abt interface configurations
 oct 22 i learned abt spanning tree protocol
 
 oct 26 i learned abt wireless technologies 
+
+oct 27 i learned abt wireless networking 
