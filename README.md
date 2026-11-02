@@ -84,3 +84,8 @@ oct 26 i learned abt wireless technologies
 oct 27 i learned abt wireless networking 
 
 oct 29 i learned abt Network types and wireless encryption
+
+
+November
+
+Nov 2 i learned abt wireless encryption
