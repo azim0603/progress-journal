@@ -89,3 +89,5 @@ oct 29 i learned abt Network types and wireless encryption
 November
 
 Nov 2 i learned abt installing networks
+
+Nov 4 i learned abt power
