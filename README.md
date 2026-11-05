@@ -91,3 +91,5 @@ November
 Nov 2 i learned abt installing networks
 
 Nov 4 i learned abt power
+
+Nov 5 i learned abt environmental factors
