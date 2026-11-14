@@ -97,3 +97,5 @@ Nov 5 i learned abt environmental factors
 Nov 6 i learned abt Network documentation 
 
 Nov 11 i learned abt life cycle management
+
+Nov 14 i learned abt configuration management
